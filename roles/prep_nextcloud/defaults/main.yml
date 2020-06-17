@@ -23,3 +23,45 @@ nc_app_config:
   - { key: "disable", value: "firstrunwizard" }
   - { key: "enable",  value: "admin_audit" }
   - { key: "enable",  value: "files_pdfviewer" }
+  - { key: "enable", value: "deck" }
+  - { key: "enable", value: "files_mindmap" }
+  - { key: "enable", value: "files_downloadactivity" }
+  - { key: "enable", value: "apporder" }
+  - { key: "enable", value: "auto_mail_accounts" }
+  - { key: "enable", value: "workflow_pdf_converter" }
+  - { key: "enable", value: "circles" }
+  - { key: "enable", value: "drawio" }
+  - { key: "enable", value: "files_accesscontrol" }
+  - { key: "enable", value: "files_automatedtagging" }
+  - { key: "enable", value: "fulltextsearch" }
+  - { key: "enable", value: "event_update_notification" }
+  - { key: "enable", value: "ocr" }
+  - { key: "enable", value: "printer" }
+  - { key: "enable", value: "socialsharing_email" }
+  - { key: "enable", value: "workflow_script" }
+  - { key: "enable", value: "side_menu" }
+  - { key: "enable", value: "external" }
+  - { key: "enable", value: "theming_customcss" }
+  - { key: "enable", value: "files_lock" }
+  - { key: "enable", value: "whiteboard" }
+  - { key: "enable", value: "files_mindmap" }
+  - { key: "enable", value: "files_rightclick" }
+  - { key: "enable", value: "comments" }
+  - { key: "enable", value: "dashboardcharts" }
+  - { key: "enable", value: "updatenotification" }
+  - { key: "enable", value: "sharebymail" }
+  - { key: "enable", value: "files_versions" }
+  - { key: "enable", value: "notifications" }
+  - { key: "enable", value: "files_sharing" }
+  - { key: "enable", value: "files_trashbin" }
+  - { key: "enable", value: "systemtags" }
+  - { key: "enable", value: "workflowengine" }
+  - { key: "enable", value: "mail" }
+  - { key: "enable", value: "guests" }
+  - { key: "enable", value: "analytics" }
+  - { key: "enable", value: "polls" }
+  - { key: "enable", value: "extract" }
+  - { key: "enable", value: "contacts" }
+  - { key: "enable", value: "calendar" }
+  - { key: "enable", value: "bruteforcesettings" }
+  - { key: "enable", value: "forms" }
